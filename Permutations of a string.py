@@ -49,7 +49,7 @@ def returnperm(string):
                 shufstring = fc+ ii
                 retlist.append(shufstring)
                      
-        #update counter to fill choose the next element as the first element in the string
+        #update counter to fill the next element as the first element in the string
         counter1 += 1
     
     return (retlist)   
